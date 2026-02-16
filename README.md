@@ -9,12 +9,12 @@ You can use the [Hello World](notebooks/0_HelloWorld.ipynb) notebooks to check t
 
 | Week         | Topic           | Materials  |
 | ------------- |-------------| -----:|
-| 1      | Introduction and Python refresher | slides + notebooks <a href='notebooks/1_Fundamentals.ipynb'>1</a>, <a href='notebooks/1_MoreFundamentals.ipynb'>2</a>, <a href='notebooks/1_EvenMoreFundamentals.ipynb'>3</a>, <a href='notebooks/1_RegularExpressions.ipynb'>4</a>, <a href='notebooks/1_ScientificProgramming.ipynb'>5</a> |
+| 1      | Introduction and Python refresher | <a href='slides/AUC_1_Introduction_2026.pdf'>slides</a> + notebooks <a href='notebooks/1_Fundamentals.ipynb'>1</a>, <a href='notebooks/1_MoreFundamentals.ipynb'>2</a>, <a href='notebooks/1_EvenMoreFundamentals.ipynb'>3</a>, <a href='notebooks/1_RegularExpressions.ipynb'>4</a>, <a href='notebooks/1_ScientificProgramming.ipynb'>5</a> |
 | 2      | Introduction to NLP and NLP pipelines | slides + <a href='notebooks/2_NLP_pipelines.ipynb'>notebook</a> |
 | 3      | Language modelling  | slides + notebooks <a href='notebooks/3_Distributions_in_text.ipynb'>1</a>, <a href='notebooks/3_WordNet.ipynb'>2</a> |
 | 4      | Vector space semantics | slides + <a href='notebooks/4_Vector_Semantics.ipynb'>notebook</a> |
 | 5      | Word embeddings | slides + <a href='notebooks/5_WordEmbeddings.ipynb'>notebook</a> |
-| 6      | Machine learning fundamentals  | <a href='slides + notebooks <a href='notebooks/6_1_ML.ipynb'>1 (ML)</a>, <a href='notebooks/6_2_ContextualEmbeddings.ipynb'>2 (BERT)</a> |
+| 6      | Machine learning fundamentals  | slides + notebooks <a href='notebooks/6_1_ML.ipynb'>1 (ML)</a>, <a href='notebooks/6_2_ContextualEmbeddings.ipynb'>2 (BERT)</a> |
 | 7      | Text classification and RNNs | slides + <a href='notebooks/7_1_Classification.ipynb'>notebook (Scikit-learn)</a>, <a href='notebooks/7_2_PyTorch.ipynb'>notebook (PyTorch)</a> |
 | 8      | Recommender systems and NER  | slides + notebooks <a href='notebooks/9_Recommender_Systems.ipynb'>Recommender</a>, <a href='notebooks/8_2_NER_Transformers.ipynb'>NER (Transformers)</a>, <a href='notebooks/8_1_NER_PyTorch.ipynb'>NER (PyTorch)</a> |
 | 9      | Creating annotated corpora, Web scraping and APIs  | slides, <a href='notebooks/10_WebScraping_APIs.ipynb'>notebook</a> |
