@@ -11,7 +11,7 @@ You can use the [Hello World](notebooks/0_HelloWorld.ipynb) notebooks to check t
 | ------------- |-------------| -----:|
 | 1      | Introduction and Python refresher | <a href='slides/AUC_1_Introduction_2026.pdf'>slides</a> + notebooks <a href='notebooks/1_Fundamentals.ipynb'>1</a>, <a href='notebooks/1_MoreFundamentals.ipynb'>2</a>, <a href='notebooks/1_EvenMoreFundamentals.ipynb'>3</a>, <a href='notebooks/1_RegularExpressions.ipynb'>4</a>, <a href='notebooks/1_ScientificProgramming.ipynb'>5</a> |
 | 2      | Introduction to NLP and NLP pipelines | <a href='slides/AUC_2_NLP_Foundations_2026.pdf'>slides</a> + <a href='notebooks/2_NLP_pipelines.ipynb'>notebook</a> |
-| 3      | Language modelling  | <a href='slides/AUC_3_langugage_models_2026.pdf'>slides</a> + notebooks <a href='notebooks/3_Distributions_in_text.ipynb'>1</a>, <a href='notebooks/3_WordNet.ipynb'>2</a>, <a href='https://www.kaggle.com/code/alvations/n-gram-language-model-with-nltk'>Language Modelling</a> (external) |
+| 3      | Language modelling  | <a href='slides/AUC_3_langugage_models_2026.pdf'>slides</a> + notebooks <a href='notebooks/3_Distributions_in_text.ipynb'>1</a>, <a href='notebooks/3_WordNet.ipynb'>2</a>, <a href='https://www.kaggle.com/code/alvations/n-gram-language-model-with-nltk'>N-gram LM</a> (external) |
 | 4      | Vector space semantics | slides + <a href='notebooks/4_Vector_Semantics.ipynb'>notebook</a> |
 | 5      | Word embeddings | slides + <a href='notebooks/5_WordEmbeddings.ipynb'>notebook</a> |
 | 6      | Machine learning fundamentals  | slides + notebooks <a href='notebooks/6_1_ML.ipynb'>1 (ML)</a>, <a href='notebooks/6_2_ContextualEmbeddings.ipynb'>2 (BERT)</a> |
